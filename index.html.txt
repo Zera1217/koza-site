@@ -1,0 +1,141 @@
+```html
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Koza | Discord Bot</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #0b0b12;
+            color: white;
+            min-height: 100vh;
+        }
+
+        nav {
+            height: 70px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 8%;
+            border-bottom: 1px solid #20202c;
+            background: #0e0e16;
+        }
+
+        .logo {
+            font-size: 25px;
+            font-weight: bold;
+        }
+
+        nav a {
+            color: #aaa;
+            text-decoration: none;
+            margin-left: 25px;
+            transition: .2s;
+        }
+
+        nav a:hover {
+            color: white;
+        }
+
+        .hero {
+            min-height: calc(100vh - 70px);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 30px;
+        }
+
+        .hero h1 {
+            font-size: 70px;
+            margin-bottom: 15px;
+        }
+
+        .hero h1 span {
+            color: #8b5cf6;
+        }
+
+        .hero p {
+            max-width: 650px;
+            color: #aaa;
+            font-size: 19px;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        .buttons a {
+            display: inline-block;
+            padding: 14px 25px;
+            border-radius: 10px;
+            text-decoration: none;
+            margin: 5px;
+            font-weight: bold;
+        }
+
+        .invite {
+            background: #8b5cf6;
+            color: white;
+        }
+
+        .secondary {
+            border: 1px solid #333344;
+            color: white;
+        }
+
+        footer {
+            text-align: center;
+            padding: 25px;
+            color: #666;
+            border-top: 1px solid #20202c;
+        }
+    </style>
+</head>
+
+<body>
+
+<nav>
+    <div class="logo">Koza</div>
+
+    <div>
+        <a href="index.html">Ana Sayfa</a>
+        <a href="terms.html">Hizmet Koşulları</a>
+        <a href="privacy.html">Gizlilik</a>
+    </div>
+</nav>
+
+<section class="hero">
+    <h1>Merhaba, ben <span>Koza.</span></h1>
+
+    <p>
+        Discord sunucularınızı daha eğlenceli, kullanışlı ve düzenli
+        hale getirmek için geliştirilmiş çok amaçlı Discord botu.
+    </p>
+
+    <div class="buttons">
+        <a class="invite"
+           href="BURAYA_BOT_DAVET_LINKINI_YAZ">
+            Discord'a Ekle
+        </a>
+
+        <a class="secondary" href="terms.html">
+            Hizmet Koşulları
+        </a>
+    </div>
+</section>
+
+<footer>
+    © 2026 Koza. Tüm hakları saklıdır.
+</footer>
+
+</body>
+</html>
+```

@@ -1,0 +1,110 @@
+```html
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Koza | Gizlilik Politikası</title>
+
+<style>
+body {
+    margin: 0;
+    background: #0b0b12;
+    color: #ddd;
+    font-family: Arial, sans-serif;
+    line-height: 1.7;
+}
+
+.container {
+    max-width: 850px;
+    margin: 60px auto;
+    padding: 30px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: #a78bfa;
+    margin-top: 35px;
+}
+
+p {
+    color: #aaa;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Koza Gizlilik Politikası</h1>
+
+<p>Son güncelleme: 8 Eylül 2026</p>
+
+<h2>1. Toplanan Bilgiler</h2>
+
+<p>
+Koza, özelliklerinin çalışması için gerekli olabilecek
+Discord kullanıcı ID'si, sunucu ID'si ve kanal ID'si gibi
+teknik bilgileri işleyebilir.
+</p>
+
+<h2>2. Mesajlar</h2>
+
+<p>
+Koza'nın çalışması için gerekli olmadığı sürece kullanıcıların
+özel mesaj içerikleri kalıcı olarak saklanmaz.
+</p>
+
+<h2>3. Bilgilerin Kullanımı</h2>
+
+<p>
+Toplanan teknik bilgiler botun özelliklerini çalıştırmak,
+hataları tespit etmek ve hizmetin güvenliğini sağlamak
+amacıyla kullanılabilir.
+</p>
+
+<h2>4. Bilgilerin Paylaşılması</h2>
+
+<p>
+Kullanıcı bilgileri satılmaz veya reklam amacıyla üçüncü
+taraflara aktarılmaz.
+</p>
+
+<h2>5. Veri Güvenliği</h2>
+
+<p>
+Verilerin güvenliğini sağlamak için makul teknik önlemler
+uygulanmaya çalışılır. Ancak internet üzerindeki hiçbir
+sistem tamamen risksiz değildir.
+</p>
+
+<h2>6. Veri Silme</h2>
+
+<p>
+Koza tarafından saklanan verilerinizin silinmesini talep
+etmek için botun destek kanalı üzerinden iletişime geçebilirsiniz.
+</p>
+
+<h2>7. Politika Değişiklikleri</h2>
+
+<p>
+Bu Gizlilik Politikası gerektiğinde güncellenebilir.
+Güncel sürüm her zaman bu sayfada yayınlanır.
+</p>
+
+<h2>8. İletişim</h2>
+
+<p>
+Gizlilik ile ilgili sorularınız için Koza'nın destek
+sunucusu üzerinden iletişime geçebilirsiniz.
+</p>
+
+</div>
+
+</body>
+</html>
+```
